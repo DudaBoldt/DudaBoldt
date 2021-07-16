@@ -1,4 +1,5 @@
 # Bem-vindo!
+  Tudo certo por aqui. 😄 👍
 
 ###### _Contato:_
 [![Hotmail badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:maria_eduardaboldt@hotmail.com)](mailto:maria_eduardaboldt@hotmail.com)
